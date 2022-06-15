@@ -1,4 +1,4 @@
-package com.aasthachatters.labtest2final;
+package com.aasthachatters.Lab2_Aastha_c0851622_Android;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import android.database.Cursor;

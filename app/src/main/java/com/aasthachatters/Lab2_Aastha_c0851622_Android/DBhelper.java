@@ -1,11 +1,9 @@
-package com.aasthachatters.labtest2final;
+package com.aasthachatters.Lab2_Aastha_c0851622_Android;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-
-import androidx.annotation.Nullable;
 
 public class DBhelper extends SQLiteOpenHelper {
     public DBhelper(Context context) {

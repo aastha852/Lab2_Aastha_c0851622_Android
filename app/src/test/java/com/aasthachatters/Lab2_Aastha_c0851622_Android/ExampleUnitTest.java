@@ -1,4 +1,4 @@
-package com.aasthachatters.labtest2final;
+package com.aasthachatters.Lab2_Aastha_c0851622_Android;
 
 import org.junit.Test;
 
